@@ -27,6 +27,11 @@ Install:
 		* broadinstitute.pem
 		* knife.rb
 
+	4. Verify connection to chef server. From the bits-chef-repo directory:
+
+		> knife client list
+		bits-validator
+
 
 Overview
 ========
